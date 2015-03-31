@@ -1,0 +1,34 @@
+@media screen and (max-width: 500px) {
+/* applies only if the screen is narrower than 500px */
+  .tabs {
+  }
+
+  .aboutme img {
+	width: 80%;
+	height: 30%;
+  }
+  
+  .fa-4x { /*SOCIAL ICONS*/
+	color: white;
+	margin: 4%;
+  } 	
+  
+  #socialicons { /*social icon div */
+  	width:80%;
+  	display:inline;
+  }
+ 
+  
+   h3 {
+  	width: 60%;
+  }
+
+  h4 {
+  	width: 70%;
+	margin-top: 1%;
+  }
+  
+   #lasticons {
+  	width:80%;
+  }
+}

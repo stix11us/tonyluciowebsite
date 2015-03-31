@@ -1,0 +1,60 @@
+@media screen and (max-width: 500px) {
+/* applies only if the screen is narrower than 500px */
+  .tabs {
+  }
+
+nav /*navigation text*/{
+	color: white;
+	text-decoration: none;
+	padding: 1%;
+	}
+
+nav a /*navigation text*/{
+	color: white;
+	text-decoration: none;
+	border-style: solid;
+    border-width: 2px;
+    border-radius: 20%;
+	box-shadow: 10px 10px 5px #888888;
+	padding: 1%;
+	margin: 2%;
+	display:inline-block;
+	width:30%;
+	}
+
+  .aboutme img {
+	width: 80%;
+	height: 30%;
+  }
+  
+  .fa-4x { /*SOCIAL ICONS*/
+	color: white;
+	margin: 4%;
+  } 	
+  
+  #socialicons { /*social icon div */
+  	width:80%;
+  	display:inline;
+  	margin-left: 6%;
+  }
+ 
+	h3 {
+  	width: 40%;
+  }
+
+  h4 {
+  	width: 50%;
+	margin-top: 1%;
+  }
+  
+	#lasticons a{
+  	display:inline;
+  	margin: 0%;
+  }
+
+  #lasticons {
+  	width:90%;
+  }
+  
+  
+}
